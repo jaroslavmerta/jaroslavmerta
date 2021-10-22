@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jaroslav Merta a I speak Czech and English
-- 👀 I’m interested in JavaScript and Node.js
-- 🌱 I’m currently learning Node.js 
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Node.js and React
 - 📫 How to reach me log.merta@gmail.com
 
 <!---
