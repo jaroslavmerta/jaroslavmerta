@@ -10,7 +10,7 @@
 
 - I am also passionate programmer and creator.
   
-# Web
+## Web
 
 - So far you can see some projects I did in my early career, so you can see I work mostly with Typescript, HTML, CSS, Node.js and I was focus mainly on web application development.
 
@@ -20,7 +20,8 @@
 
 
 
-- 📫 How to reach me log.merta@gmail.com
+# How to reach me 
+log.merta@gmail.com
 
 <!---
 jaroslavmerta/jaroslavmerta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
