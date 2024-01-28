@@ -1,7 +1,7 @@
 - 👋 Hi,
 - I’m Jaroslav Merta and I am software engineer.
 
-#QA engineer
+# QA engineer
 
 - These days I work as a tester of mobile application and I lead a project of mobile automated tests using Appium in environment composed from Java, Maven, Selenide, Selenium, TestNG, GitLab, Docker, Jenkins and much much more! :)
 - Unfortunately, regarding test automation you can not find nothing shared publicly
