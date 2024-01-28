@@ -12,7 +12,7 @@
   
 # Web
 
-- So far you can see some projects I did in my starting carrier, so you can see I work mostly with Typescript, HTML, CSS, Node.js and I was focus mainly on web application development.
+- So far you can see some projects I did in my early career, so you can see I work mostly with Typescript, HTML, CSS, Node.js and I was focus mainly on web application development.
 
 # iOS
 
